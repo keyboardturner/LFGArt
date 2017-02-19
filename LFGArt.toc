@@ -1,0 +1,7 @@
+## Title: LFGArt
+## Version: 0.0.1
+## Author: Keyboardturner
+## Interface: 70000
+## Notes: Adds artwork to the LFG frames.
+
+LFGArt.lua
